@@ -1,0 +1,43 @@
+body
+{
+
+    background: teal;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+margin-top: 15%;}
+h1,h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: 200;
+    font-size: 2.6rem;
+    line-height: 50%;
+}
+
+button{
+    background: teal;
+    color: white;
+    border: solid 1px white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 18px 10px;
+    width: 180px;
+    margin: 10px;
+    outline: none;
+}
+    button:hover {
+      background: white;
+      border: solid 1px white;
+      color: teal
+    }
+
+    #secs,#milisec,.title
+    {
+        font-size: 3rem;
+        font-weight: 500;
+        color: white;
+    }
+
+
